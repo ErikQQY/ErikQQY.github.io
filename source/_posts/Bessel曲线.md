@@ -11,6 +11,7 @@ $$
 [利用广义幂级数求解Bessel方程](https://github.com/ErikQQY/ErikQQY.github.io/blob/master/Sources/BesselEquation.pdf)
 
 ### 第一类贝塞尔函数
+<!--more-->
 
 也称作**贝塞尔函数**
 $$
